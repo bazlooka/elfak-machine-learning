@@ -1,0 +1,5 @@
+https://towardsdatascience.com/introduction-to-clustering-algorithms-76da35b5670a/
+
+https://towardsdatascience.com/unsupervised-learning-project-creating-customer-segments-17c4b4bbf925/
+
+https://www.kaggle.com/code/dhanyajothimani/basic-visualization-and-clustering-in-python
